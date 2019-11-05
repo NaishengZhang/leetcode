@@ -10,7 +10,7 @@
 
 ## Binary Search Tree
 
-###[94. Binary Tree Inorder Traversal](https://github.com/NaishengZhang/leetcode/tree/master/Binary-Search-Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
+###[94. Binary Tree Inorder Traversal](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
 
 
 
