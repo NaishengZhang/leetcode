@@ -28,13 +28,15 @@
 
 
 
-## Sorted Algorithm
+## [Sorted Algorithm]()
 
 
 
 
 
-## String
+## [String]()
+
+
 
 
 
@@ -60,22 +62,24 @@
 
 5 questions/day
 
-## 11.05 - 12.05
+## Schedule
+
+### 11.05 - 12.05 
 
 From 11.05 to 12.05, should AC 150 questions 
 
 First Week: 11.4 - 11.10
 
-| Date    | Topic            | Quesion          |
-| :------ | ---------------- | ---------------- |
-| 11.04   |                  |                  |
-| 11.05   | LinkedList       | 173 94 21 86 143 |
-| 11.06   | LinkedList       |                  |
-| 11.07   | Sorted Algorithm |                  |
-| 11.08   | Sorted Algorithm |                  |
-| 11.09   | String           |                  |
-| 11.10   | String           |                  |
-| Summary |                  |                  |
+| Date    | Topic            | Quesion            |
+| :------ | ---------------- | ------------------ |
+| 11.04   |                  |                    |
+| 11.05   | LinkedList       | 173 94 21 86 143 ✅ |
+| 11.06   | LinkedList       |                    |
+| 11.07   | Sorted Algorithm |                    |
+| 11.08   | Sorted Algorithm |                    |
+| 11.09   | String           |                    |
+| 11.10   | String           |                    |
+| Summary |                  |                    |
 
 ### 
 
