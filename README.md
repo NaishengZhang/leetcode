@@ -8,13 +8,17 @@
 
 
 
-## Binary Search Tree
+## [Binary Search Tree](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
+
+
 
 ###[94. Binary Tree Inorder Traversal](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
 
 
 
 ## Linked List
+
+### 21. [Merge Two Sorted Lists]()
 
 
 
