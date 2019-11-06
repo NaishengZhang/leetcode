@@ -4,25 +4,27 @@
 
 ## [Stack](https://github.com/NaishengZhang/leetcode/tree/master/Stack)
 
-### [173. Binary Search Tree Iterator]()
+### [173. Binary Search Tree Iterator](https://github.com/NaishengZhang/leetcode/tree/master/Stack/173.Binary%20Search%20Tree%20Iterator)
 
 
 
 ## [Binary Search Tree](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
 
+### [94. Binary Tree Inorder Traversal](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
 
 
-###[94. Binary Tree Inorder Traversal](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
 
 
 
-## Linked List
+## [Linked List](https://github.com/NaishengZhang/leetcode/tree/master/Linked%20List)
 
-### [21. Merge Two Sorted Lists]()
+### [21. Merge Two Sorted Lists](https://github.com/NaishengZhang/leetcode/tree/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)
 
-### [86. Partition List]()
+### [86. Partition List](https://github.com/NaishengZhang/leetcode/tree/master/Linked%20List/86.%20Partition%20List)
 
-### [143. Reorder List]()
+### [143. Reorder List](https://github.com/NaishengZhang/leetcode/tree/master/Linked%20List/143.%20Reorder%20List)
+
+
 
 
 
