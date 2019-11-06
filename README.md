@@ -4,9 +4,14 @@
 
 ## [Stack](https://github.com/NaishengZhang/leetcode/tree/master/Stack)
 
-### [173. Binary Search Tree Iterator](https://github.com/NaishengZhang/leetcode/tree/master/Stack/173.Binary%20Search%20Tree%20Iterator)
-
-
+| #    | Title                                                        |                           Solution                           | Difficulty |
+| ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | :--------: |
+| 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Java](https://github.com/NaishengZhang/leetcode/tree/master/Stack/173.Binary%20Search%20Tree%20Iterator) |    Easy    |
+|      |                                                              |                                                              |            |
+|      |                                                              |                                                              |            |
+|      |                                                              |                                                              |            |
+|      |                                                              |                                                              |            |
+|      |                                                              |                                                              |            |
 
 ## [Binary Search Tree](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
 
