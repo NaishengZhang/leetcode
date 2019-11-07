@@ -7,23 +7,50 @@
  * }
  */
 class Solution {
-    public ListNode partition(ListNode head, int x) {
-        ListNode dummy1 = new ListNode(0);
-        ListNode dummy2 = new ListNode(0);
-        ListNode cur1= dummy1;
-        ListNode cur2 = dummy2;
-        while (head != null) {
-            if (head.val < x) {
-                cur1.next = head;
-                cur1 = head;
-            } else {
-                cur2.next = head;
-                cur2 = head;
-            }
-            head = head.next;
+    public void reorderList(ListNode head) {
+        if (head == null || head.next == null) {
+            return;
         }
-        cur2.next = null; //important
-        cur1.next = dummy2.next;
-        return dummy1.next;
+        ListNode l1 = head;
+        ListNode pre = findMiddle(head);
+        ListNode mid = pre.next;
+        pre.next = null;
+        ListNode l2 = reverse(mid);
+        ListNode nxt1 = null;
+        ListNode nxt2 = null;
+        while (l1 != null && l2 !=null) {
+            nxt1 = l1.next;
+            nxt2 = l2.next;
+            l1.next = l2;
+            if (nxt1 == null) {
+                break;
+            }
+            l2.next = nxt1;
+            l1 = nxt1;
+            l2 = nxt2;
+        }
+        
+    }
+    
+    public ListNode reverse(ListNode head) {
+        ListNode pre = null, nxt = head.next;
+        while (head != null) {
+            nxt = head.next;
+            head.next =pre;
+            pre = head;
+            head = nxt;
+        }
+        return pre;
+    }
+    
+    public ListNode findMiddle(ListNode head) {
+        ListNode slow = head, fast = head, pre = head;
+        
+        while(fast != null && fast.next != null) {
+            pre = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return pre;
     }
 }
