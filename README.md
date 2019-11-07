@@ -41,8 +41,8 @@
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |                           [Java]()                           |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |                           [Java]()                           |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |                           [Java]()                           |
-|                                                              |                                                              |
-|                                                              |                                                              |
+| [202. Happy Number](https://leetcode.com/problems/happy-number/) |                           [Java]()                           |
+| [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) |                           [Java]()                           |
 
 ## 
 
@@ -96,8 +96,8 @@ First Week: 11.4 - 11.10
 | :------ | ---------------- | ------------------ |
 | 11.04   |                  |                    |
 | 11.05   | LinkedList       | 173 94 21 86 143 ✅ |
-| 11.06   | LinkedList       | 876 19 141142      |
-| 11.07   | Sorted Algorithm |                    |
+| 11.06   | LinkedList       | 876 19 141142 202✅ |
+| 11.07   | Sorted Algorithm | 237                |
 | 11.08   | Sorted Algorithm |                    |
 | 11.09   | String           |                    |
 | 11.10   | String           |                    |
