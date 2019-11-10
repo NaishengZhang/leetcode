@@ -98,8 +98,8 @@ First Week: 11.4 - 11.10
 | 11.05   | LinkedList       | 173 94 21 86 143 ✅ |
 | 11.06   | LinkedList       | 876 19 141142 202✅ |
 | 11.07   | Sorted Algorithm | 237 ❎              |
-| 11.08   | Sorted Algorithm |                    |
-| 11.09   | String           |                    |
+| 11.08   | Sorted Algorithm | 7 ❎                |
+| 11.09   | String           | ❎                  |
 | 11.10   | String           |                    |
 | Summary |                  |                    |
 
