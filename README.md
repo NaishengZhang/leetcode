@@ -15,8 +15,6 @@
 
 ## [Binary Search Tree](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
 
-### [94. Binary Tree Inorder Traversal](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal)
-
 | Title                                                        |                           Solution                           | Difficulty |
 | ------------------------------------------------------------ | :----------------------------------------------------------: | :--------: |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](https://github.com/NaishengZhang/leetcode/tree/master/Binary%20Search%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal) |   Medium   |
@@ -52,7 +50,16 @@
 
 ## [Sorted Algorithm]()
 
+| Title | Solution | Difficulty |
+| ----- | :------: | :--------: |
+|       |  [Java]  |            |
+|       |          |            |
+|       |          |            |
+|       |          |            |
+|       |          |            |
+|       |          |            |
 
+## 
 
 
 
@@ -62,9 +69,21 @@
 
 
 
+##[Two Pointer]()
 
+| Title                                                        | Solution | Difficulty |
+| ------------------------------------------------------------ | :------: | :--------: |
+| Sum                                                          |          |            |
+| [167. Two Sum II]()                                          |  [Java]  |            |
+| [15. 3Sum](https://leetcode.com/problems/3sum/)              |          |            |
+| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) |          |            |
+| [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) |          |            |
+| [18. 4Sum (Templet)](https://leetcode.com/problems/4sum/)    |          |            |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |          |            |
+|                                                              |          |            |
+|                                                              |          |            |
 
-
+## 
 
 
 
@@ -90,18 +109,29 @@
 
 From 11.05 to 12.05, should AC 150 questions 
 
-First Week: 11.4 - 11.10
+#### First Week: 11.4 - 11.10
 
-| Date    | Topic            | Quesion            |
-| :------ | ---------------- | ------------------ |
-| 11.04   |                  |                    |
-| 11.05   | LinkedList       | 173 94 21 86 143 ✅ |
-| 11.06   | LinkedList       | 876 19 141142 202✅ |
-| 11.07   | Sorted Algorithm | 237 ❎              |
-| 11.08   | Sorted Algorithm | 7 ❎                |
-| 11.09   | String           | ❎                  |
-| 11.10   | String           |                    |
-| Summary |                  |                    |
+| Date    | Topic            | Quesion             |
+| :------ | ---------------- | ------------------- |
+| 11.04   |                  |                     |
+| 11.05   | LinkedList       | 173 94 21 86 143 ✅  |
+| 11.06   | LinkedList       | 876 19 141142 202✅  |
+| 11.07   | Sorted Algorithm | 237 ❎               |
+| 11.08   | Sorted Algorithm | 7 ❎                 |
+| 11.09   | String           | ❎                   |
+| 11.10   | String           | ❎                   |
+| Summary |                  | 12; cc lab kills me |
 
-### 
+#### Second Week: 11.11 - 11.10
+
+| Date    | Topic            | Quesion          |
+| :------ | ---------------- | ---------------- |
+| 11.11   |                  |                  |
+| 11.12   | Sorted Algorithm |                  |
+| 11.13   | Sorted Algorithm |                  |
+| 11.14   | Two pointer      | 167 15 16 259 18 |
+| 11.15   | Two pointer      | 125              |
+| 11.16   |                  |                  |
+| 11.17   |                  |                  |
+| Summary |                  |                  |
 
