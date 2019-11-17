@@ -80,7 +80,12 @@
 | [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) |          |            |
 | [18. 4Sum (Templet)](https://leetcode.com/problems/4sum/)    |          |            |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |          |            |
+| [234. Palindrome Linked List]()                              |          |            |
+| [680. Valid Palindrome II]()                                 |          |            |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |          |            |
 |                                                              |          |            |
+| Tail                                                         |          |            |
+| [27. Remove Element](https://leetcode.com/problems/remove-element/) |          |            |
 |                                                              |          |            |
 
 ## 
@@ -124,14 +129,14 @@ From 11.05 to 12.05, should AC 150 questions
 
 #### Second Week: 11.11 - 11.10
 
-| Date    | Topic            | Quesion          |
-| :------ | ---------------- | ---------------- |
-| 11.11   |                  |                  |
-| 11.12   | Sorted Algorithm |                  |
-| 11.13   | Sorted Algorithm |                  |
-| 11.14   | Two pointer      | 167 15 16 259 18 |
-| 11.15   | Two pointer      | 125              |
-| 11.16   |                  |                  |
-| 11.17   |                  |                  |
-| Summary |                  |                  |
+| Date    | Topic            | Quesion            |
+| :------ | ---------------- | ------------------ |
+| 11.11   |                  |                    |
+| 11.12   | Sorted Algorithm |                    |
+| 11.13   | Sorted Algorithm |                    |
+| 11.14   | Two pointer      | 167 15 16 259 18✅  |
+| 11.15   | Two pointer      | 125 680 234 11 27✅ |
+| 11.16   |                  |                    |
+| 11.17   |                  |                    |
+| Summary |                  |                    |
 
