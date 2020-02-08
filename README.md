@@ -67,8 +67,6 @@
 
 ## [Two Pointer]()
 
-
-
 | Title                                                        | Solution | Difficulty |
 | ------------------------------------------------------------ | :------: | :--------: |
 | Sum                                                          |          |            |
@@ -79,14 +77,34 @@
 | [18. 4Sum (Templet)](https://leetcode.com/problems/4sum/)    |          |            |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |          |            |
 | [234. Palindrome Linked List]()                              |          |            |
-| [680. Valid Palindrome II]()                                 |          |            |
+| Array                                                        |          |            |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |          |            |
-|                                                              |          |            |
+| [680. Valid Palindrome II]()                                 |          |            |
+| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |          |            |
 | Tail                                                         |          |            |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) |          |            |
+| [75. Sort Colors](https://leetcode.com/problems/sort-colors/) |          |            |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) |          |            |
+| [373. Partition Array by Odd and Even](https://www.lintcode.com/problem/partition-array-by-odd-and-even/description) |          |            |
+| [49. Sort Letters by Case](https://www.lintcode.com/problem/sort-letters-by-case/description) |          |            |
+| Window                                                       |          |            |
+| [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |          |            |
+| [3. Longest Substring Without Repeating Characters]()        |          |            |
+| [242. Valid Anagram]()                                       |          |            |
+| [438. Find All Anagrams in a String]()                       |          |            |
+| [159. Longest Substring with At Most Two Distinct Characters]() |          |            |
 |                                                              |          |            |
 
-## 
+## [Permutation]()
+
+| Title                                                        | Solution | Difficulty |
+| ------------------------------------------------------------ | :------: | :--------: |
+| [197. Permutation Index](https://www.lintcode.com/problem/permutation-index/description) |          |            |
+|                                                              |          |            |
+|                                                              |          |            |
+|                                                              |          |            |
+|                                                              |          |            |
+|                                                              |          |            |
 
 
 
@@ -125,7 +143,7 @@ From 11.05 to 12.05, should AC 150 questions
 | 11.10   | String           | ❎                   |
 | Summary |                  | 12; cc lab kills me |
 
-#### Second Week: 11.11 - 11.10
+#### Second Week: 11.11 - 11.17
 
 | Date    | Topic            | Quesion            |
 | :------ | ---------------- | ------------------ |
@@ -138,3 +156,28 @@ From 11.05 to 12.05, should AC 150 questions
 | 11.17   |                  |                    |
 | Summary |                  |                    |
 
+#### Third Week: 11.18 - 11.24
+
+| Date    | Topic       | Quesion            |
+| :------ | ----------- | ------------------ |
+| 11.18   |             |                    |
+| 11.19   | Two pointer | 75 283 373 49 209✅ |
+| 11.20   |             |                    |
+| 11.21   |             | 3 242 438          |
+| 11.22   |             |                    |
+| 11.23   |             |                    |
+| 11.24   |             |                    |
+| Summary |             |                    |
+
+#### Fourth Week: 11.25 - 12.01
+
+| Date    | Topic | Quesion |
+| :------ | ----- | ------- |
+| 11.25   |       |         |
+| 11.26   |       |         |
+| 11.27   |       |         |
+| 11.28   |       |         |
+| 11.29   |       | 197     |
+| 11.30   |       |         |
+| 12.01   |       |         |
+| Summary |       |         |
