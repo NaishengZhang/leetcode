@@ -6,7 +6,6 @@ class Solution {
         if (nums == null || nums.length == 0) {
             return res;
         }
-        // List<Integer> temp = new ArrayList<>();
         boolean[] visited = new boolean[nums.length];
         dfs(nums, temp, visited);
         return res;
