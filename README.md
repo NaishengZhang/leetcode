@@ -177,17 +177,28 @@ From 11.05 to 12.05, should AC 150 questions
 
 
 
-| Title | Solution | Difficulty |
-| ----- | :------: | :--------: |
-|       |          |            |
-|       |          |            |
-|       |          |            |
-|       |          |            |
-|       |          |            |
-|       |          |            |
-|       |          |            |
-|       |          |            |
-|       |          |            |
+| Title                       | Tips |
+| --------------------------- | :--: |
+| 939. Minimum Area Rectangle |      |
+| 162. Find Peak Element      |      |
+|                             |      |
+|                             |      |
+|                             |      |
+|                             |      |
+|                             |      |
+|                             |      |
+|                             |      |
+
+## DP
+
+| Title                |                   Tips                    |
+| -------------------- | :---------------------------------------: |
+| 64. Minimum Path Sum | Rolling Array to reduce memory complexity |
+| 361. Bomb Enemy      |               分为四个方向                |
+| 338. Counting Bits   |             Dp. Or i&(i - 1)              |
+| 198. House Robber    |                                           |
+|                      |                                           |
+|                      |                                           |
 
 
 
@@ -203,13 +214,13 @@ From 11.05 to 12.05, should AC 150 questions
 
 #### First Week: 
 
-| Date    | Topic | Quesion              | review |
-| :------ | ----- | -------------------- | ------ |
-| 03.26   | DP    | 225 232 716 155      | xxx    |
-| 03.27   | DP    | 809 91 62 63 674 256 | xxx    |
-| 03.28   |       |                      |        |
-| 03.29   |       |                      |        |
-| Summary |       |                      |        |
+| Date    | Topic | Quesion                         | review |
+| :------ | ----- | ------------------------------- | ------ |
+| 03.26   | DP    | 225, 232, 716, 155              | xxx    |
+| 03.27   | DP    | 809, 91, 62, 63, 674, 256       | xxx    |
+| 03.28   | DP    | DP- 64, 338, 361, 256 \|GG- 939 | Xxx    |
+| 03.29   | DP    | DP-198,  \|GG- 162              |        |
+| Summary |       |                                 |        |
 
 #### Second Week: 
 
