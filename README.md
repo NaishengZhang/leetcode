@@ -177,17 +177,17 @@ From 11.05 to 12.05, should AC 150 questions
 
 
 
-| Title                       | Tips |
-| --------------------------- | :--: |
-| 939. Minimum Area Rectangle |      |
-| 162. Find Peak Element      |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
-|                             |      |
+| Title                                                        | Tips |
+| ------------------------------------------------------------ | :--: |
+| 939. Minimum Area Rectangle                                  |      |
+| 162. Find Peak Element                                       |      |
+| [000. FindLocalMax](https://leetcode.com/discuss/interview-question/205360/Given-an-array-find-all-local-maximas-(peak)-Google/212662) |      |
+|                                                              |      |
+|                                                              |      |
+|                                                              |      |
+|                                                              |      |
+|                                                              |      |
+|                                                              |      |
 
 ## DP
 
@@ -224,16 +224,16 @@ From 11.05 to 12.05, should AC 150 questions
 
 #### Second Week: 
 
-| Date    | Topic | Quesion |
-| :------ | ----- | ------- |
-| 03.30   |       |         |
-| 03.31   |       |         |
-| 04.01   |       |         |
-| 04.02   |       |         |
-| 04.03   |       |         |
-| 04.04   |       |         |
-| 04.05   |       |         |
-| Summary |       |         |
+| Date    | Topic | Quesion             |
+| :------ | ----- | ------------------- |
+| 03.30   |       | 121, 122, Singleton |
+| 03.31   |       |                     |
+| 04.01   |       |                     |
+| 04.02   |       |                     |
+| 04.03   |       |                     |
+| 04.04   |       |                     |
+| 04.05   |       |                     |
+| Summary |       |                     |
 
 #### Third Week: 
 
