@@ -182,10 +182,10 @@ From 11.05 to 12.05, should AC 150 questions
 | 939. Minimum Area Rectangle                                  |      |
 | 162. Find Peak Element                                       |      |
 | [000. FindLocalMax](https://leetcode.com/discuss/interview-question/205360/Given-an-array-find-all-local-maximas-(peak)-Google/212662) |      |
-|                                                              |      |
-|                                                              |      |
-|                                                              |      |
-|                                                              |      |
+| [001.BinarySearchUnsorted Array](https://www.1point3acres.com/bbs/thread-489043-1-1.html) |      |
+| 252. Meeting Rooms                                           |      |
+| 253. Meeting Rooms II                                        |      |
+| 136. Single Number                                           |      |
 |                                                              |      |
 |                                                              |      |
 
@@ -227,8 +227,8 @@ From 11.05 to 12.05, should AC 150 questions
 | Date    | Topic | Quesion             |
 | :------ | ----- | ------------------- |
 | 03.30   |       | 121, 122, Singleton |
-| 03.31   |       |                     |
-| 04.01   |       |                     |
+| 03.31   | GG    | 001, 252, 253       |
+| 04.01   |       | 136,                |
 | 04.02   |       |                     |
 | 04.03   |       |                     |
 | 04.04   |       |                     |
