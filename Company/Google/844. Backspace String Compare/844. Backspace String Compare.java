@@ -41,9 +41,9 @@ class Solution {
                     break;
                 }
             }
-            
+            System.out.print(j);
             while (j >= 0) {
-                if (s.charAt(j) == '#') {
+                if (t.charAt(j) == '#') {
                     j--;
                     count++;
                 } else if (count > 0) {
@@ -53,12 +53,10 @@ class Solution {
                     break;
                 }
             }
-            if ((i >= 0) != (j >= 0)) {
+            if (i >= 0 && j >= 0 && s.charAt(i) != t.charAt(j)) {
                 return false;
             }
-            c1 = s.charAt(i);
-            c2 = t.charAt(j);
-            if (c1 != c2) {
+            if ((i >= 0) != (j >= 0)) {
                 return false;
             }
             i--;
@@ -67,4 +65,5 @@ class Solution {
         return true;
     }
 }
+
 
