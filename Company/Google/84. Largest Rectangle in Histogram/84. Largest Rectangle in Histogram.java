@@ -70,8 +70,31 @@ class Solution {
     }
 }
 
-
-
+// Time: O(nlogn) worst case:O(n^2) If the numbers in the array are sorted, we don't gain the advantage of divide and conquer.
+class Solution {
+    // Divid and Conquer
+    public int largestRectangleArea(int[] heights) {
+        if (heights == null || heights.length == 0) {
+            return 0;
+        }
+        
+        return calculateArea(heights, 0, heights.length - 1);
+    }
+    
+    private int calculateArea(int[] heights, int start, int end) {
+        if (start > end) {
+            return 0;
+        }
+        int min = start;
+        for (int i = start; i <= end; i++) {
+            if (heights[min] > heights[i]) {
+                min = i;
+            }
+        }
+        int area = heights[min] * (end - start + 1);
+        return Math.max(Math.max(calculateArea(heights, start, min - 1), calculateArea(heights, min + 1, end)), area);
+    }
+}
 
 
 
